@@ -1,5 +1,5 @@
-#### Zobayer Hasan
-### Industrial & Production Engineering | AI, ML, Optimization & Simulation Modeling
+## Zobayer Hasan
+#### Industrial & Production Engineering | AI, ML, Optimization & Simulation Modeling
 ![Industrial & Production Engineering | AI, ML, Optimization & Simulation Modeling](https://media.licdn.com/dms/image/v2/D5616AQGvRshBRu5-1w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737822375581?e=1743033600&v=beta&t=1gLll581Fy4Rn-TwvVL9mKPyjoNqrHwQW1fr9p1bhXk)
 
 I am a passionate Industrial and Production Engineer with a strong foundation in AI, machine learning, optimization, and simulation modeling. With proven leadership skills, I have successfully led and collaborated on diverse projects and programs, fostering teamwork and achieving shared goals. My work includes projects like thermal sensation prediction using machine learning and exploring solutions to enhance efficiency and sustainability in industrial processes.
